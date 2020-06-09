@@ -1,4 +1,4 @@
-package com.example.demo.commons.util;
+package com.example.commons.util;
 
 import java.text.DateFormat;
 import java.text.ParseException;
