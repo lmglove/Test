@@ -1,6 +1,7 @@
-package com.example.demo.commons.util;
+package com.example.commons.util;
 
 import ch.qos.logback.core.net.server.Client;
+import com.example.commons.coder.MD5Coder;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.slf4j.Logger;

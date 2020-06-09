@@ -1,4 +1,4 @@
-package com.example.demo.commons.util;
+package com.example.commons.coder;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

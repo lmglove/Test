@@ -1,4 +1,4 @@
-package com.example.demo.commons.util;
+package com.example.lmgdd.entity;
 
 import lombok.Data;
 import sun.plugin2.message.Serializer;
