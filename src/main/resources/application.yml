@@ -1,0 +1,15 @@
+server:
+  port: 8443
+  max-http-header-size: 8192
+  servlet:
+    context-path: /app
+    session:
+      timeout: 30m
+    encoding:
+      charset: UTF-8
+      force: true
+spring:
+  profiles:
+    active: prod
+  application:
+    name: hellospringboot
